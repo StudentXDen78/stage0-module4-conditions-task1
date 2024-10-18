@@ -5,5 +5,8 @@ public class PositiveNumberDeterminer {
         if (numberToBeDetermined > 0) {
             System.out.println(true);
         }
+        else {
+            System.out.println(true);
+        }
     }
 }
