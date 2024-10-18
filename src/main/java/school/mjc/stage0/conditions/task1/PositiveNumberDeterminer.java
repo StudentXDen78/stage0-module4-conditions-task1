@@ -6,7 +6,7 @@ public class PositiveNumberDeterminer {
             System.out.println(true);
         }
         else {
-            System.out.println(true);
+            System.out.println(false);
         }
     }
 }
